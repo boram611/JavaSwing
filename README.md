@@ -1,7 +1,7 @@
 # JavaSwing
 
 ## Preview
-![2조 001](https://user-images.githubusercontent.com/75714852/112586698-a0652880-8e3f-11eb-974b-d37630cccb91.jpeg)
+![2조 001](https://user-images.githubusercontent.com/75714852/112587073-41ec7a00-8e40-11eb-88d0-8e68b1bb0361.jpeg)
 ![2조 002](https://user-images.githubusercontent.com/75714852/112586704-a2c78280-8e3f-11eb-9a08-22fa25df6f5b.jpeg)
 ![2조 003](https://user-images.githubusercontent.com/75714852/112586707-a3f8af80-8e3f-11eb-9e27-a6330a154cdc.jpeg)
 ![2조 004](https://user-images.githubusercontent.com/75714852/112586709-a4914600-8e3f-11eb-9020-3e2ac66ba3f9.jpeg)
